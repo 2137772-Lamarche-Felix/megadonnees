@@ -1,0 +1,6 @@
+id;format_obj_id;article_id;commande_id;producteur_id;nom_producteur;acheteur_id;conservation;quantite;nom;prix;format;unite_mesure;marge;tps;tvq;prix_total;ordre;quantite_facturee;tps_producteur_par_unite;tvq_producteur_par_unite;montant_consigne
+1;271007;272005;360009;184001;L'Herbivore;347002;frigo;1;Feuilletés au Végé-Pâté et au Confit d'oignons;5.50;4;unité(s);0.82;0.00;0.00;6.32;33;0;;;
+2;220037;215046;360017;189007;Retour à la Nature;351004;tablette;1;Tisane de thé du Labrador;4.00;25;g;0.60;0.00;0.00;4.60;43;0;;;
+3;364007;367004;360017;192002;Verger des Horizons;351004;frigo;1;Gelée de pommes;4.00;250;ml;0.60;0.00;0.00;4.60;29;0;;;
+4;248040;249050;360017;184008;La P'tite Virée;351004;congelo;1;Tire d'érable;5.95;250;g;0.89;0.00;0.00;6.84;17;0;;;
+5;;;360019;191001;Samour ail;367005;congelo;1;Pâte d'ail frais et persil;2.00;40;g;0.30;0.00;0.00;2.30;8;0;;;

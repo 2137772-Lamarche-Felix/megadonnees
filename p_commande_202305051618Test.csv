@@ -1,0 +1,6 @@
+"id","cueillette_id","proprio_id","proprio_prenom","proprio_nom","proprio_courriel","proprio_courriel_court","proprio_telephone","part_producteurs","marge_marche","tps","tvq","prix_total","cotisation","montant_cotisation","montant_renouvellement","confirme","frais_mode_de_cueillette","facturee","part_producteurs_facture","marge_marche_facture","tps_facture","tvq_facture","prix_total_facture","items_prets_conservation_tablette","items_prets_conservation_frigo","items_prets_conservation_congelo","total_consigne","tps_frais_mode_de_cueillette","tvq_frais_mode_de_cueillette","rabais_codes_promotionnels","rabais_codes_promotionnels_descriptif","tps_rabais_codes_promotionnels","tvq_rabais_codes_promotionnels"
+355034,362016,355004,"","","","","",33.50,5.02,0.00,0.00,38.52,0,,,1,,0,,,,,,0,0,0,,0.00,0.00,,"",0.00,0.00
+355049,362016,362001,"","","","","",101.21,15.21,0.00,0.00,116.42,0,,,1,,0,,,,,,0,0,0,,0.00,0.00,,"",0.00,0.00
+355059,362016,346010,"","","","","",16.00,2.40,0.00,0.00,18.40,0,,,1,,0,,,,,,0,0,0,,0.00,0.00,,"",0.00,0.00
+355103,362016,362002,"","","","","",65.25,9.77,0.00,0.00,75.02,0,,,1,,0,,,,,,0,0,0,,0.00,0.00,,"",0.00,0.00
+355142,362016,348003,"","","","","",41.22,6.17,0.00,0.00,47.39,0,,,1,,0,,,,,,0,0,0,,0.00,0.00,,"",0.00,0.00
